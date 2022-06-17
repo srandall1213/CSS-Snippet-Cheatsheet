@@ -6,6 +6,7 @@
 body {
     background-color: rgb(57, 57, 57);
     font-family: sans-serif; 
+    margin: 0px 5%;
 }
 
 h1 {
@@ -63,7 +64,9 @@ p {
     border-radius: 10px;
     width: 100%;
     padding-left: -50px;
+    user-select: all;
 }
+
 
 h3 {
     color: rgba(232, 102, 236, 0.6);
